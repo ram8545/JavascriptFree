@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+h2 {
+    font-size: 50px;
+}
+
+#increment-btn {
+    background-color: red;
+    color: white;
+    box-sizing: border-box
+}
+#save-btn {
+    background-color: green;
+    color: white;
+}
